@@ -1,7 +1,7 @@
 extends Node2D
 
 @export var scan_speed: float = 30.0
-@export var scan_range: float = 35.0   # degrees to each side
+@export var scan_range: float = 35.0   
 
 var scan_direction: float = 1.0
 var start_rotation: float = 0.0

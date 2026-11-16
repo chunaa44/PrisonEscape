@@ -1,6 +1,6 @@
 extends Node2D
 
-@export var next_room: PackedScene   # leave empty until Room 2 exists
+@export var next_room: PackedScene  
 @export var left_limit: float = 18.0
 @export var exit_x: float = 380.0    # walk past this to leave the room
 @export var fall_y: float = 130.0    # below this the player fell in the pit

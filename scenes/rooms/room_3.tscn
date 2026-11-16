@@ -708,7 +708,7 @@ scan_range = 25.0
 
 [node name="VisionCone" parent="SecurityCamera" index="0" unique_id=1297086803]
 rotation = 1.5707964
-view_range = 300.0
+view_range = 250.0
 view_angle = 90.0
 
 [node name="AnimatedSprite2D" parent="SecurityCamera" index="1" unique_id=325561225]

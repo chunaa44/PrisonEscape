@@ -224,7 +224,7 @@ func die() -> void:
 		active_projectile.queue_free()
 		active_projectile = null
 
-	$AnimatedSprite2D.play("die")
+	$AnimatedSprite2D.play("death")
 
 	if death_screen != null:
 		death_screen.show()
